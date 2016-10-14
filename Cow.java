@@ -10,5 +10,6 @@
          mySound = "unknown";     
      }      
      public String getSound(){return mySound;}     
-     public String getType(){return myType;} 
+     public String getType(){return myType;} 	
+     
  }
